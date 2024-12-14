@@ -1,0 +1,20 @@
+[
+    {
+        "nome": "carlos santos",
+        "telefone": "92847-5828",
+        "email": "carlos.santos@gmail.com",
+        "prontuario": "Exame do Coração - 02/03/2022 - R$ 200,00\n"
+    },
+    {
+        "nome": "Dalton Ribeiro",
+        "telefone": "94727-2938",
+        "email": "drr@hotmail.com",
+        "prontuario": "Exame dos Pulmões - 24/05/2018 - R$300,00\n\n"
+    },
+    {
+        "nome": "Roberto Silva",
+        "telefone": "95748-3344",
+        "email": "rsilva@gmail.com",
+        "prontuario": "Exame de Vista - 31/01/2022 - R$500,00\n\n\n"
+    }
+]
